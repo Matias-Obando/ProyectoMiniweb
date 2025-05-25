@@ -5,16 +5,16 @@ Este proyecto es una página web que muestra tarjetas de superhéroes con inform
 # Tecnologías usadas
 
 - HTML5, CSS3
-- Bootstrap 5.3 (responsive)
-- jQuery (interactividad)
-- PHP + MySQL (consulta de base de datos, si se usa)
+- Bootstrap 5.3
+- jQuery 
+- PHP + MySQL
 - Publicado en InfinityFree
 
 # Funcionalidad
 
 - Tarjetas con superhéroes y sus imágenes
 - Botón para mostrar/ocultar sus poderes (con jQuery)
-- Página adaptada a móviles (responsive)
+- Página adaptada a móviles
 - Fondo temático de DC Comics
 - Estilo personalizado y diseño limpio
 
